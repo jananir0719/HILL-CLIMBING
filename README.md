@@ -40,6 +40,7 @@ Feedback is provided in terms of heuristic function
 
 <hr>
 <h3>PROGRAM</h3>
+
 ```
 import random
 import string
@@ -77,7 +78,6 @@ best_score = score
 
 
 SimpleHillClimbing()
-
 ```
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
