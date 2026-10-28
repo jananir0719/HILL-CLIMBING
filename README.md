@@ -98,6 +98,7 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+```
 <img width="517" height="430" alt="image" src="https://github.com/user-attachments/assets/65d9c9c0-f4e7-423b-87e8-8666c9f2d64c" />
 
 <h3>RESULT</h3>
